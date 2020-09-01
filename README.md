@@ -9,10 +9,8 @@ Easy to Exchange, Calculator + Exchage List
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
 
 ### Screenshots
-<img src="./screenshots/store01.png" height="400px"/> 
-<img src="./screenshots/store02.png" height="400px"/>
-<img src="./screenshots/store05.png" height="400px"/>
-<img src="./screenshots/store04.png" height="400px"/>
+<img src="./screenshots/store01.png" height="400px"/> <img src="./screenshots/store02.png" height="400px"/>
+<img src="./screenshots/store05.png" height="400px"/><img src="./screenshots/store04.png" height="400px"/>
 
 
 
