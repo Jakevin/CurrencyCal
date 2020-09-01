@@ -1,5 +1,7 @@
-# Currency Exchange Rates
+![icon](./screenshots/ic_launch.png)
 
+Currency Exchange Rates
+==========
 Easy to Exchange, Calculator + Exchage List
 
 ### Download
@@ -7,8 +9,12 @@ Easy to Exchange, Calculator + Exchage List
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
 
 ### Screenshots
+<img src="./screenshots/store01.png" height="400px"/> 
+<img src="./screenshots/store02.png" height="400px"/>
+<img src="./screenshots/store05.png" height="400px"/>
+<img src="./screenshots/store04.png" height="400px"/>
 
-![How to use](/screenshots/howtouse.png)
+
 
 ### Functional
 - Calculate and Exchange
@@ -17,6 +23,7 @@ Easy to Exchange, Calculator + Exchage List
 - Pin your favorite currencies
 
 ### How to use
+![How to use](/screenshots/howtouse.png)
 1. Pin or Unpin favorite currency
 2. Click currency to change Main currency
 3. Click exchange result to change Decimal point lenght (Default:2 Max:6)
