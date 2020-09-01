@@ -2,10 +2,15 @@
 
 Easy to Exchange, Calculator + Exchage List
 
-![How to use](howtouse.png)
+### Download
+<a href="https://play.google.com/store/apps/details?id=com.jakevin.currencycal">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
+
+### Screenshots
+
+![How to use](/screenshots/howtouse.png)
 
 ### Functional
-- Get Newest Currency Rates from： https://currencylayer.com/documentation
 - Calculate and Exchange
 - Max Decimal Point：6
 - Select your Main currency and auto exchange all of other currency
@@ -15,3 +20,9 @@ Easy to Exchange, Calculator + Exchage List
 1. Pin or Unpin favorite currency
 2. Click currency to change Main currency
 3. Click exchange result to change Decimal point lenght (Default:2 Max:6)
+
+### Tools
+1. icon creator：https://www.designevo.com/tw/apps/logo/
+2. Currency Rate Api :https://currencylayer.com and
+https://tw.rter.info
+3. Android icon creator：https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
